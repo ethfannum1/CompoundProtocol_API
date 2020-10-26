@@ -18,7 +18,7 @@ Feel free to use it.
 
 Notice:
 
-In order the JavaScript file works, you have to provide in the JS code:
+In order the JavaScript file works, you have to provide in the JS code (lines 33 and 45):
 
 1. Your private key address (Ropsten).
 
