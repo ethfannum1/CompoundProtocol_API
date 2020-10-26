@@ -12,5 +12,18 @@ Check the JS source code for more information.
 Feel free to use it.
 
 
+------------
+
+**Notice: **
+
+In order the JavaScript file works, you have to provide:
+
+1. Your private key address (Ropsten).
+
+2. Your own Infura node address, like: 
+"wss://ropsten.infura.io/ws/v3/..."
+
+
+
 
 
