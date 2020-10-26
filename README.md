@@ -1,5 +1,7 @@
 [![](https://github.com/ethfannum1/CompoundProtocol_API/blob/main/compound_photo.png)](http://https://github.com/ethfannum1/CompoundProtocol_API/blob/main/compound_photo.png)
 
+https://compound.finance/
+
 
 Compound is a DEFI Protocol.
 
@@ -16,7 +18,7 @@ Feel free to use it.
 
 **Notice: **
 
-In order the JavaScript file works, you have to provide:
+In order the JavaScript file works, you have to provide in the JS code:
 
 1. Your private key address (Ropsten).
 
