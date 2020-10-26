@@ -16,7 +16,7 @@ Feel free to use it.
 
 ------------
 
-**Notice: **
+Notice:
 
 In order the JavaScript file works, you have to provide in the JS code:
 
